@@ -1,0 +1,22 @@
+{
+  "data_name_1": "111",
+  "data_name_2": "222",
+  "data_name_3": "333",
+  "data_name_4": "444",
+  "data_name_5": "555",
+
+  "task_name_1": "1",
+  "task_name_2": "2",
+  "task_name_3": "3",
+  "task_name_4": "4",
+  "task_name_5": "5",
+
+  "gantt_label_1": "P",
+  "gantt_select_1_1": "F",
+  "gantt_select_1_2": "L",
+  "gantt_label_2": "M",
+  "gantt_select_2_1": "24",
+  "gantt_select_2_2": "25",
+  "gantt_label_3": "Date Range",
+  "upload_excel_btn": "Upload Excel only"
+}
