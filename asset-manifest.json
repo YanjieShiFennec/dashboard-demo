@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd6572a9.css",
-    "main.js": "/static/js/main.e5c56dff.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/index.html",
-    "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.dd6572a9.css.map": "/static/css/main.dd6572a9.css.map",
-    "main.e5c56dff.js.map": "/static/js/main.e5c56dff.js.map"
+    "main.css": "/dashboard-demo/static/css/main.dc110b4c.css",
+    "main.js": "/dashboard-demo/static/js/main.f7d2f907.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/dashboard-demo/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/dashboard-demo/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/dashboard-demo/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/dashboard-demo/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/dashboard-demo/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/dashboard-demo/index.html",
+    "static/media/getFetch.cjs": "/dashboard-demo/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.dc110b4c.css.map": "/dashboard-demo/static/css/main.dc110b4c.css.map",
+    "main.f7d2f907.js.map": "/dashboard-demo/static/js/main.f7d2f907.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd6572a9.css",
-    "static/js/main.e5c56dff.js"
+    "static/css/main.dc110b4c.css",
+    "static/js/main.f7d2f907.js"
   ]
 }
